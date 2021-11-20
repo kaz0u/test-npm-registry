@@ -1,0 +1,15 @@
+{
+  "name": "@kaz0u/test-npm-registry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thibaud LARIVIERE",
+  "license": "ISC",
+  "dependencies": {
+    "@kaz0u/test-docker": "^1.0.4"
+  }
+}
